@@ -23,4 +23,4 @@ Please make sure that the file you use is in the same directory as the rest of t
   
 The program will keep expecting input until the instruction ***quit ;*** is given.
 
-If specific input values for variables in ***ler ( var ) ;*** are necessary the program will ask for them after the ***quit ;*** instruction.
+If specific input values for variables in ***ler ( var ) ;*** are necessary, the program will ask for them after the ***quit ;*** instruction.
